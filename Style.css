@@ -1,5 +1,23 @@
 .Motiv{
-    color: rgb(0, 4, 255);
-    font-family: Arial;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 15pt;
+    padding-top: 10%;
     } 
+    
+    .Title{
+        color: blue;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15pt;
+        background-color: aqua;
+        border-radius: 100px;
+        width:fit-content;
+        } 
+    
+.center-box{
+    display:flex;
+    justify-content: center;
+        } 
+
+
+img {border-radius: 1000px;} 
